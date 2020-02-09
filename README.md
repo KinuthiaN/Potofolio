@@ -6,4 +6,3 @@ https://github.com/moringashool/hello-world.git
 https://github.com/KinuthiaN/Potofolio.git
 https://github.com/KinuthiaN/Potofolio.git
 https://github.com/KinuthiaN/Potofolio.git
-https://github.com/moringashool/hello-world.git
