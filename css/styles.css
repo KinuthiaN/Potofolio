@@ -1,0 +1,41 @@
+h1{
+  color: gray;
+  text-align: left;
+  font-style: <strong>
+  font-size: 50px
+}
+
+h2{
+  color: gray;
+  text-align: left;
+  font-style: normal;
+  text: <em>
+  font-size: 30px;
+}
+
+img {
+ float: center;
+ padding:3px;
+ border:5px solid #c0c0c0;
+ background-color:#0ffff;
+}
+
+.About Me{
+  text-align: left;
+  font-size: 30px
+  font-style: normal;
+  text: <em>
+}
+
+
+.background{
+  color: #00CED1;
+}
+
+.job description{
+color: #00CED1;
+}
+
+.hobbies{
+  color: #00CED1;
+}

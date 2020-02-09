@@ -1,0 +1,39 @@
+h1{
+  color: silver;
+  text-align: left;
+  font-style: <strong>
+  font-size: 50px
+}
+
+h2{
+  color: lime;
+  text-align: left;
+  font-style: normal;
+  font-size: 30px;
+}
+
+img {
+ float: left;
+ padding:3px;
+ border:5px solid #FF00FF;
+ background-color:#00FFFF;
+}
+
+.About Me{
+  text-align: left;
+  font-size: 30px
+  font-style: em;
+}
+
+
+.background{
+  color: #00CED1;
+}
+
+.job description{
+color: #00CED1;
+}
+
+.hobbies{
+  color: #00CED1;
+}
