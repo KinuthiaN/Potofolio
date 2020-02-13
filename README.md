@@ -14,4 +14,4 @@ All you need is internet connection, a laptop and a link to access the webpage.
 https://github.com/KinuthiaN/portfolio
 
 ##### License
-Open and free
+Open and free.
