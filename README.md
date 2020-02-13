@@ -11,7 +11,7 @@ It is a portfolio written in html and css.
 All you need is internet connection, a laptop and a link to access the webpage.
 
 ##### Adiitional Links
-
+https://github.com/KinuthiaN/portfolio
 
 ##### License
 Open and free
